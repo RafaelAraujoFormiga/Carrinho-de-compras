@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(128, 128, 128);
+}
+.principal{
+    text-align: center;
+    margin: 100px auto;
+
+}
+ul{
+    list-style: none;
+}
+
+.produtos,section{
+    width: 400px;
+    background-color: rgba(204, 201, 201, 0.747);
+    margin: 10px auto;
+    display: flex;
+    border-radius: 10px;
+}
+.c1{
+    width: 400px;
+    background-color: black;
+    color: white;
+    margin: 10px auto;
+    display: flex;
+    border-radius: 10px;
+}
+p{ 
+    
+    margin: 10px auto;
+}
+
+button{
+    border-radius: 10px;
+    padding: 10px 145px 10px 145px;
+    
+}
+.produtos:hover{
+
+    background-color: rgb(29, 248, 128);
+    color: rgb(0, 44, 10);
+
+}
+button:hover{
+    background-color: rgb(29, 248, 128);
+    color: rgb(0, 44, 10);
+}
